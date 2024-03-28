@@ -1,4 +1,4 @@
-# Exploratory_Data_Analysis-
+# Exploratory_Data_Analysis: By Using Python-
 Performaing Data Analysis by using Python 
 1.	Read Dataset and Explore the dataset by checking shape, columns, see the first/last 'n' rows using head/tail. (n= 5,15,30) (6) 
 2.	Filter numeric columns and summarize their statistics and do the same for categorical columns(4)
